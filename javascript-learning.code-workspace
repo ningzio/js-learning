@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "learn-tape"
+		},
+		{
+			"path": "learn-tdd"
+		},
+		{
+			"path": "learn-elm"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch Program",
+				"program": "${file}",
+				"request": "launch",
+				"skipFiles": [
+					"<node_internals>/**"
+				],
+				"type": "node"
+			}
+		]
+	}
+}

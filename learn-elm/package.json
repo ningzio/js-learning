@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "istanbul": "^0.4.5",
+    "jsdom-global": "^3.0.2",
+    "path": "^0.12.7",
+    "tape": "^5.7.5"
+  }
+}
